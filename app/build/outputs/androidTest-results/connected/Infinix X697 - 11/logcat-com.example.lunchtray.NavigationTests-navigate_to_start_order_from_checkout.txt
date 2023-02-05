@@ -1,0 +1,398 @@
+02-05 23:32:03.118 17929 17952 I TestRunner: started: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
+02-05 23:32:03.124   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 288. leave_time:3754
+02-05 23:32:03.124   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:80
+02-05 23:32:03.124   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 288. leave_time:3754
+02-05 23:32:03.124   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:80
+02-05 23:32:03.125   695   776 I libPowerHal: [perfLockAcq] idx:7 hdl:60223 hint:25 pid:695 duration:500 => ret_hdl:60223
+02-05 23:32:03.125   695   776 I libPowerHal: [PE] scn:7 hdl:60223 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.125   695   776 I libPowerHal: [perfLockRel] hdl:60221, idx:2
+02-05 23:32:03.125   695   776 I libPowerHal: [PD] scn:2 hdl:60221 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.126  2000  2000 D OrientationTouchTransformer: touchInValidSwipeRegions return false, x = 669.3802 y = 1063.5676
+02-05 23:32:03.127  2000  2000 D Launcher: #shouldBlockNavGestureTouchWithAnimation result : false isFreezerAnimRunning = false isFolderOrDockAnimatingRunning = false isAllAppStateAnimRunning = false isDragging = false isGuideShown = false isSortThreadRunning = false isRemoteAnimShowing = false isFinishedSwitchingState = false isConfigAnimationRunning = false inRecentViewTranslate = false isStaggeredWorkspaceAnimRunning = false isGestureFollowHandMoving = false isAZFollowHandMoving = false isResizeFoerAnimRunning = false
+02-05 23:32:03.127  2000  2000 D OrientationTouchTransformer: touchInValidSwipeRegions return false, x = 669.3802 y = 1063.5676
+02-05 23:32:03.148   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039726,0.000049, totalTime 0.039775 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.171 17929 17952 W Settings: Setting always_finish_activities has moved from android.provider.Settings.System to android.provider.Settings.Global, returning read-only value.
+02-05 23:32:03.183  1237  3855 W CloudEngineFramework: This key has registered!!!
+02-05 23:32:03.188   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039676,0.000043, totalTime 0.039720 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.190  2708  2716 I mtkpower_client: perf_lock_acq, hdl:60211, dur:500, num:2, tid:2716
+02-05 23:32:03.190   695   776 I libPowerHal: [perfLockAcq] idx:2 hdl:60224 hint:25 pid:695 duration:500 => ret_hdl:60224
+02-05 23:32:03.190   695   776 I libPowerHal: [PE] scn:2 hdl:60224 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.191   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 354. leave_time:3688
+02-05 23:32:03.192   695   776 I libPowerHal: [perfLockRel] hdl:60223, idx:7
+02-05 23:32:03.192   695   776 I libPowerHal: [PD] scn:7 hdl:60223 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.193  2708  2716 I mtkpower_client: ret_hdl:60211
+02-05 23:32:03.193   456   456 E SELinux : avc:  denied  { find } for pid=3582 uid=1000 name=tethering scontext=u:r:silead_manager_app:s0 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+02-05 23:32:03.193   695   776 I libPowerHal: [perfLockAcq] idx:0 hdl:60211 hint:-1 pid:2708 duration:500 => ret_hdl:60211
+02-05 23:32:03.194   695   776 I libPowerHal: [perfLockAcq] idx:7 hdl:60225 hint:0 pid:695 duration:4667 => ret_hdl:60225
+02-05 23:32:03.194   695   776 I libPowerHal: [PE] scn:7 hdl:60225 hint:0 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.202   695   730 I mtkpower@impl: [setMode] type:5, enabled:1
+02-05 23:32:03.203   695   776 I libPowerHal: [perfLockAcq] idx:8 hdl:60226 hint:11 pid:695 duration:30000 => ret_hdl:60226
+02-05 23:32:03.203   695   776 I libPowerHal: [PE] scn:8 hdl:60226 hint:11 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.203   695   776 I libPowerHal: LAUNCH: cpu_ctrl set cpu freq: 2000000 -1 2050000 -1
+02-05 23:32:03.203   695   776 I libPowerHal: [PE] LAUNCH update cmd:1000000, param:1
+02-05 23:32:03.204   695   776 I libPowerHal: [PE] LAUNCH update cmd:1420100, param:1
+02-05 23:32:03.204   695   776 I libPowerHal: [PE] LAUNCH update cmd:1408300, param:100
+02-05 23:32:03.204   695   776 I libPowerHal: [PE] LAUNCH update cmd:300c000, param:15
+02-05 23:32:03.204   695   776 I libPowerHal: [PE] LAUNCH update cmd:1000000 param:1
+02-05 23:32:03.205   695   776 I libPowerHal: [perfLockRel] hdl:60190, idx:-1
+02-05 23:32:03.205   695   776 I libPowerHal: [perfLockAcq] idx:9 hdl:60227 hint:22 pid:695 duration:10000 => ret_hdl:60227
+02-05 23:32:03.205   695   776 I libPowerHal: [PE] scn:9 hdl:60227 hint:22 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.206   695   776 I libPowerHal: [perfLockRel] hdl:60154, idx:-1
+02-05 23:32:03.207  1237  3855 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{10c394a u0 com.transsion.XOSLauncher/com.android.launcher3.XApplication} Window{1af11e7 u0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.208  5372  5391 I SmartPanel_SmartPanelService: activityCheck pkgName: com.example.lunchtray, className: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity isResume=false isInshow =true isDrawn = false
+02-05 23:32:03.212  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.212  2000 17954 E FA      : Task exception on worker thread: java.lang.IllegalStateException: Not initialized: iy.k(:com.google.android.gms.dynamite_measurementdynamite@230313039@23.03.13 (150408-0):0)
+02-05 23:32:03.213  2000 17954 E FA      : Persisted config not initialized. Not logging error/warn
+02-05 23:32:03.216   695   776 I libPowerHal: [perfNotifyAppState] foreground:com.example.lunchtray, pid:17929, uid:10673
+02-05 23:32:03.217   695   776 E UxUtility: notifyAppState error = NULL
+02-05 23:32:03.217   695   776 I TouchUtility: notifyAppState error = NULL
+02-05 23:32:03.217   695   729 I mtkpower@impl: [notifyAppState] pc:0, com.transsion.XOSLauncher => com.example.lunchtray
+02-05 23:32:03.218  2452  2472 E MessageDispatcher: [dispatchMessage] tag = uxdetector
+02-05 23:32:03.219  1913  1929 D MultiWindowService: pkgName = com.example.lunchtray
+02-05 23:32:03.219  2452  3527 D UxDetectorHandler: getWifiStatus wifiId=<unknown ssid>
+02-05 23:32:03.220  2452  3527 D UxDetectorHandler: getHeadsetStatus init headset=2
+02-05 23:32:03.223  1237  1390 I WhiteNavigationLice: Modify naviBarColor to white.
+02-05 23:32:03.224 17929 17957 D libMEOW : meow reload base cfg path: na
+02-05 23:32:03.224  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.224 17929 17957 D libMEOW : meow reload overlay cfg path: na
+02-05 23:32:03.225  1237  3855 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{10c394a u0 com.transsion.XOSLauncher/com.android.launcher3.XApplication} Window{1af11e7 u0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.225   717   783 I SurfaceFlinger: [SF client] NEW(0xb4000071dc406630) for (1237:system_server)
+02-05 23:32:03.227  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.227  1237  1390 D ViewRootImpl[lunchtray]: hardware acceleration = false , fakeHwAccelerated = true, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+02-05 23:32:03.228 17929 17957 I libMEOW_gift: open /vendor/lib64/egl/libMEOW_qt.so
+02-05 23:32:03.228   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039730,0.000050, totalTime 0.039781 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.228 17929 17957 I libMEOW_gift: open /data/performance/gift/arc.ini
+02-05 23:32:03.228 17929 17957 E QT      : [QT]file does not exist
+02-05 23:32:03.229 17929 17957 D libMEOW : applied 1 plugins for [com.example.lunchtray]:
+02-05 23:32:03.229 17929 17957 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+02-05 23:32:03.229  2452  3527 D UxDetectorUtil: getIsLowBattery init =100
+02-05 23:32:03.229  2452  3527 D UxDetectorUtil: getIsLowBattery = 0
+02-05 23:32:03.229  1237  5640 I FZ2.LISTEN: ignore this pop window change of not system window
+02-05 23:32:03.229  1237  1390 I InputTransport: Create ARC handle: 0xb400006fc2f10c10
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: getIsLowBattery init =100
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: getIsLowBattery = 0
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: hour Half computer start
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: hourHalf = 24.0
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: bright ness is 46
+02-05 23:32:03.230  2452  3527 D UxDetectorUtil: return bringt ness is 1
+02-05 23:32:03.232  2452  3527 D UxDetectorUtil: signal string is 2
+02-05 23:32:03.233  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.234  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.234  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.236  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.237  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.239  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.239  5372  5391 D SmartPanelService: handlerActivityStart isResume = false  mPCIsResume = false  pkgName = com.example.lunchtray
+02-05 23:32:03.239 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: PRE_ON_CREATE
+02-05 23:32:03.240 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.240  1237  1476 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{10c394a u0 com.transsion.XOSLauncher/com.android.launcher3.XApplication} Window{1af11e7 u0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.241  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.243   717   783 I BufferQueueConsumer: [](id:2cd000007e6,api:0,p:-1,c:717) connect(): controlledByApp=false
+02-05 23:32:03.244   717   783 I BufferQueue: [unnamed-717-2022](this:0xb40000728c929ec8,id:2022,api:0,p:-1,c:-1) BufferQueue core=(717:/system/bin/surfaceflinger)
+02-05 23:32:03.245  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.246  1237  1390 D Surface : lockCanvas
+02-05 23:32:03.246   717   783 I BufferQueueProducer: [Splash Screen com.example.lunchtray#0](id:2cd000007e6,api:2,p:1237,c:717) connect(): api=2 producerControlledByApp=false
+02-05 23:32:03.246 17929 17959 D ActivityThreadLice: received OSMessage 110001
+02-05 23:32:03.246  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.247  5372  5391 D SmartPanelService: handlerVideoStart isResume = false  VIDEO_PACKAGE =   pkgName = com.example.lunchtray
+02-05 23:32:03.247 17929 17959 D ActivityThreadLice: send OSMessage 110001 to [-1]
+02-05 23:32:03.247  5372  5391 I SmartPanel_SmartPanelService: activityCheck pkgName: com.example.lunchtray, className: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity isResume=false isInshow =true isDrawn = false
+02-05 23:32:03.247  5372  5372 I SmartPanel_SlideState: clear, releasePress
+02-05 23:32:03.249 17929 17959 D OSServiceManager: update local os service os.activity from null to android.os.BinderProxy@a2b005d
+02-05 23:32:03.251  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.252  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.254  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.256  1237  1390 I DreamAnimation:  hookAppTransitSuccess called, and doUnlockAnimation=0  mState=7
+02-05 23:32:03.257  1237  3612 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} com.transsion.XOSLauncher/com.android.launcher3.XApplication#0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0 Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.257  1237  3612 I InputDispatcher: Window went away: Window{10c394a u0 com.transsion.XOSLauncher/com.android.launcher3.XApplication}
+02-05 23:32:03.257  1237  3612 I InputDispatcher: Window went away: Window{1af11e7 u0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher}
+02-05 23:32:03.258  1620  1667 D CommandQueue: abortTransient
+02-05 23:32:03.259 17929 17929 I WhiteNavigationLice: Modify naviBarColor to white.
+02-05 23:32:03.260  1620  1620 D NavigationBar: onSystemBarAppearanceChanged: appearance = 0
+02-05 23:32:03.264  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.265  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.265  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.266  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.267 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: CREATED
+02-05 23:32:03.267 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.268  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.268   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039668,0.000042, totalTime 0.039710 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.269  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.269  5372  5391 D SmartPanelService: handlerActivityStart isResume = false  mPCIsResume = false  pkgName = com.example.lunchtray
+02-05 23:32:03.270 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: STARTED
+02-05 23:32:03.270  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.270 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.272  5372  5391 D Game_Utils: mode = 1 clsname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.273  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.273  5372  5391 D SmartPanelService: handlerVideoStart isResume = false  VIDEO_PACKAGE =   pkgName = com.example.lunchtray
+02-05 23:32:03.273  2000  2000 I UnlockManager-: onWindowVisibilityChanged   visibility:8
+02-05 23:32:03.274  1237  1476 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} com.transsion.XOSLauncher/com.android.launcher3.XApplication#0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0 Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.274  5372  5372 I SmartPanel_SlideState: clear, releasePress
+02-05 23:32:03.275   695   730 I mtkpower@impl: [setMode] type:5, enabled:1
+02-05 23:32:03.275   695   776 I libPowerHal: [perfLockAcq] idx:10 hdl:60228 hint:11 pid:695 duration:30000 => ret_hdl:60228
+02-05 23:32:03.275   695   776 I libPowerHal: [PE] scn:10 hdl:60228 hint:11 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.275   695   776 I libPowerHal: [perfLockRel] hdl:60226, idx:8
+02-05 23:32:03.275   695   776 I libPowerHal: [PD] scn:8 hdl:60226 hint:11 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.276   695   776 I libPowerHal: [perfLockAcq] idx:8 hdl:60229 hint:23 pid:695 duration:10000 => ret_hdl:60229
+02-05 23:32:03.276   695   776 I libPowerHal: [PE] scn:8 hdl:60229 hint:23 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.278 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: RESUMED
+02-05 23:32:03.279  5372  5391 I SmartPanel_SmartPanelService: activityCheck pkgName: com.example.lunchtray, className: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity isResume=false isInshow =true isDrawn = false
+02-05 23:32:03.279 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.280   717   782 I BufferQueueProducer: [com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0](id:2cd000007e3,api:1,p:2000,c:717) disconnect(): api=1
+02-05 23:32:03.280  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.281  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.285  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.285  2533  2533 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@917433, this = DecorView@ba9dd9a[InputMethod]
+02-05 23:32:03.287 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: PAUSED
+02-05 23:32:03.287 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.290  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} com.transsion.XOSLauncher/com.android.launcher3.XApplication#0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0 Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.291   695   729 I mtkpower@impl: [notifyAppState] act com.example.lunchtray.MainActivity => androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.292  1913  1929 D MultiWindowService: pkgName = com.example.lunchtray
+02-05 23:32:03.292  2533  2533 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@917433, this = DecorView@ba9dd9a[InputMethod]
+02-05 23:32:03.293  1237  1476 I DreamAnimation:  hookAppTransitSuccess called, and doUnlockAnimation=0  mState=7
+02-05 23:32:03.297 17929 17962 D libMEOW : applied 1 plugins for [com.example.lunchtray]:
+02-05 23:32:03.297 17929 17962 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+02-05 23:32:03.298  1237  1390 D Surface : lockCanvas
+02-05 23:32:03.299  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.300  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity
+02-05 23:32:03.301  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.303  1989  1989 I TranPhoneSwitcher: msg104
+02-05 23:32:03.303  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.306   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 115. leave_time:4552
+02-05 23:32:03.307   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:450
+02-05 23:32:03.307  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.307  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} com.transsion.XOSLauncher/com.android.launcher3.XApplication#0 com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0 Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.308   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039772,0.000042, totalTime 0.039814 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.309  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.309  5372  5391 D SmartPanelService: handlerActivityStart isResume = false  mPCIsResume = false  pkgName = com.example.lunchtray
+02-05 23:32:03.310  2000  2000 V PhoneWindow: DecorView setVisiblity: visibility = 4, Parent = android.view.ViewRootImpl@6933ade, this = DecorView@e53e4bf[QuickstepLauncher]
+02-05 23:32:03.310  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.311  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.315  2533  2533 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@917433, this = DecorView@ba9dd9a[InputMethod]
+02-05 23:32:03.315  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.315  5372  5391 D SmartPanelService: handlerVideoStart isResume = false  VIDEO_PACKAGE =   pkgName = com.example.lunchtray
+02-05 23:32:03.315  5372  5391 I SmartPanel_SmartPanelService: activityCheck pkgName: com.example.lunchtray, className: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity isResume=false isInshow =true isDrawn = false
+02-05 23:32:03.316  5372  5372 I SmartPanel_SlideState: clear, releasePress
+02-05 23:32:03.317 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693 in: PRE_ON_CREATE
+02-05 23:32:03.317 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the reported transition was not ON_CREATE while the last known transition was PRE_ON_CREATE
+02-05 23:32:03.320  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.321  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.322  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.324  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.324  1237  1477 I InputDispatcher: Window went away: com.transsion.XOSLauncher/com.android.launcher3.XApplication#0
+02-05 23:32:03.324  1237  1477 I InputDispatcher: Window went away: com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0
+02-05 23:32:03.325  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.325  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.326  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.326   966  1033 D AAL     : 02-05 11:32:03.293 BL= 561,ESS= 256, 02-05 11:32:03.301 BL= 560,ESS= 256, 02-05 11:32:03.310 BL= 559,ESS= 256, 02-05 11:32:03.318 BL= 558,ESS= 256, 02-05 11:32:03.326 BL= 556,ESS= 256,
+02-05 23:32:03.327  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.328  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.329  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.329  5372  5391 D SmartPanelService: handlerActivityStart isResume = false  mPCIsResume = false  pkgName = com.example.lunchtray
+02-05 23:32:03.330  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.331  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.332  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.332  5372  5391 D SmartPanelService: handlerVideoStart isResume = false  VIDEO_PACKAGE =   pkgName = com.example.lunchtray
+02-05 23:32:03.332  5372  5372 I SmartPanel_SlideState: clear, releasePress
+02-05 23:32:03.334  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.335  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.335  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.336  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.337  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.337  5372  5391 D Game_Utils: getTopClassNameNew className = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.338  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.338  5372  5391 I SmartPanel_SmartPanelService: ASP topPkg: com.example.lunchtray  topClass = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity isSplitScreenfalse
+02-05 23:32:03.338  5372  5391 I SmartPanel_SmartPanelService: ASP pkgName: com.transsion.XOSLauncher  screenState=false
+02-05 23:32:03.340   717   717 I BufferQueueConsumer: [com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0](id:2cd000007e3,api:0,p:-1,c:717) disconnect()
+02-05 23:32:03.340   717   717 I BufferQueue: [com.transsion.XOSLauncher/com.android.quickstep.recents_ui_overrides.src.com.android.launcher3.uioverrides.QuickstepLauncher#0](this:0xb40000728c9a1638,id:2019,api:1,p:-1,c:-1) onDestructor()
+02-05 23:32:03.340 17929 17929 I WhiteNavigationLice: Modify naviBarColor to white.
+02-05 23:32:03.341   717   717 I BufferQueueConsumer: [com.transsion.XOSLauncher/com.android.launcher3.XApplication#0](id:2cd000007e2,api:0,p:-1,c:717) disconnect()
+02-05 23:32:03.342   717   717 I BufferQueue: [com.transsion.XOSLauncher/com.android.launcher3.XApplication#0](this:0xb40000728c9e9ab8,id:2018,api:1,p:-1,c:-1) onDestructor()
+02-05 23:32:03.343  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.344 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693 in: CREATED
+02-05 23:32:03.345 17929 17929 V ActivityScenario: Update currentActivityStage to CREATED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693
+02-05 23:32:03.348 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693 in: STARTED
+02-05 23:32:03.348   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039715,0.000038, totalTime 0.039754 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.348 17929 17929 V ActivityScenario: Update currentActivityStage to STARTED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693
+02-05 23:32:03.350 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693 in: RESUMED
+02-05 23:32:03.350 17929 17929 V ActivityScenario: Update currentActivityStage to RESUMED, currentActivity=androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity@47b0693
+02-05 23:32:03.353 17929 17929 I SurfaceFactory: [static] sSurfaceFactory = com.mediatek.view.impl.SurfaceFactoryImpl@921acf
+02-05 23:32:03.353   717  2034 I SurfaceFlinger: [SF client] NEW(0xb4000071dc40d1d0) for (17929:com.example.lunchtray)
+02-05 23:32:03.357  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.358 17929 17929 D ViewRootImpl[FragmentScenario$EmptyFragmentActivity]: hardware acceleration = true , fakeHwAccelerated = false, sRendererDisabled = false, forceHwAccelerated = false, sSystemRendererDisabled = false
+02-05 23:32:03.360   717  2034 I SurfaceFlinger: [SF client] NEW(0xb4000071dc4098f0) for (1237:system_server)
+02-05 23:32:03.360  1237  5743 I FZ2.LISTEN: ignore this pop window change of not system window
+02-05 23:32:03.362 17929 17929 D libMEOW : applied 1 plugins for [com.example.lunchtray]:
+02-05 23:32:03.362 17929 17929 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+02-05 23:32:03.362 17929 17929 I InputTransport: Create ARC handle: 0xb400006fc26d8200
+02-05 23:32:03.364 17929 17929 V PhoneWindow: DecorView setVisiblity: visibility = 0, Parent = android.view.ViewRootImpl@e3f94eb, this = DecorView@9343248[FragmentScenario$EmptyFragmentActivity]
+02-05 23:32:03.361  1237  1237 W android.display: type=1400 audit(0.0:24967): avc: denied { read } for name="capacity" dev="sysfs" ino=37198 scontext=u:r:system_server:s0 tcontext=u:object_r:sysfs_batteryinfo:s0 tclass=file permissive=0
+02-05 23:32:03.368   966  1033 D AAL     : 02-05 11:32:03.335 BL= 555,ESS= 256, 02-05 11:32:03.343 BL= 554,ESS= 256, 02-05 11:32:03.351 BL= 553,ESS= 256, 02-05 11:32:03.360 BL= 551,ESS= 256, 02-05 11:32:03.368 BL= 550,ESS= 256,
+02-05 23:32:03.374  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.378   717  2034 I BufferQueueConsumer: [](id:2cd000007e7,api:0,p:-1,c:717) connect(): controlledByApp=false
+02-05 23:32:03.378   717  2034 I BufferQueue: [unnamed-717-2023](this:0xb40000728c87a3d8,id:2023,api:0,p:-1,c:-1) BufferQueue core=(717:/system/bin/surfaceflinger)
+02-05 23:32:03.380  1620  1667 D CommandQueue: abortTransient
+02-05 23:32:03.385 17929 17956 D libMEOW : applied 1 plugins for [com.example.lunchtray]:
+02-05 23:32:03.385 17929 17956 D libMEOW :   plugin 1: [libMEOW_gift.so]:
+02-05 23:32:03.388   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039701,0.000032, totalTime 0.039733 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.390  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity#0 Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.391   457   457 I hwservicemanager: getTransport: Cannot find entry android.hardware.configstore@1.0::ISurfaceFlingerConfigs/default in either framework or device manifest.
+02-05 23:32:03.394   456   456 E SELinux : avc:  denied  { find } for pid=3582 uid=1000 name=tethering scontext=u:r:silead_manager_app:s0 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+02-05 23:32:03.395 17929 17956 I libMEOW_gift: ctx:0xb4000070f2783008, ARC not Enabled.
+02-05 23:32:03.397   717   782 I BufferQueueProducer: [com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity#0](id:2cd000007e7,api:1,p:17929,c:717) connect(): api=1 producerControlledByApp=false
+02-05 23:32:03.400 17929 17956 E ion     : ioctl c0044901 failed with code -1: Invalid argument
+02-05 23:32:03.407  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.407  1237  1477 I InputDispatcher: Window went away: com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity#0
+02-05 23:32:03.409   966  1033 D AAL     : 02-05 11:32:03.376 BL= 549,ESS= 256, 02-05 11:32:03.384 BL= 548,ESS= 256, 02-05 11:32:03.393 BL= 546,ESS= 256, 02-05 11:32:03.401 BL= 545,ESS= 256, 02-05 11:32:03.409 BL= 544,ESS= 256,
+02-05 23:32:03.424  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.426  5372  5391 I SmartPanel_SmartPanelService: onWindowsDrawn pkgName: com.example.lunchtray, className: androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity launchState=2 windowsDrawnDelayMs =234
+02-05 23:32:03.427  1237  1398 D ArtManagerInternalImpl: /data/misc/iorapd/com.example.lunchtray/1/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity/compiled_traces/compiled_trace.pb doesn't exist
+02-05 23:32:03.427   695   730 I mtkpower@impl: [setMode] type:5, enabled:0
+02-05 23:32:03.427   695   776 I libPowerHal: [perfLockRel] hdl:60228, idx:10
+02-05 23:32:03.427  1237  1398 I ActivityTaskManager: Displayed com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity: +234ms
+02-05 23:32:03.427   695   776 I libPowerHal: [PD] scn:10 hdl:60228 hint:11 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.428   695   776 I libPowerHal: [PD] LAUNCH update cmd:1420100 param:0
+02-05 23:32:03.428   695   776 I libPowerHal: [PD] LAUNCH update cmd:300c000 param:0
+02-05 23:32:03.428   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039748,0.000053, totalTime 0.039801 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.429  1237  1390 D View    : [Warning] assignParent to null: this = DecorView@9d37271[lunchtray]
+02-05 23:32:03.429   695   729 I mtkpower@impl: [mtkPowerHint] hint:22, hold:500, ext:30, ext_hold:1500
+02-05 23:32:03.429   695   729 I mtkpower@impl: [mtkPowerHint] hint:23, hold:0, ext:30, ext_hold:500
+02-05 23:32:03.429   695   776 I libPowerHal: [perfLockAcq] idx:10 hdl:60230 hint:22 pid:695 duration:500 => ret_hdl:60230
+02-05 23:32:03.429   695   776 I libPowerHal: [PE] scn:10 hdl:60230 hint:22 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.430   695   776 I libPowerHal: [perfLockRel] hdl:60227, idx:9
+02-05 23:32:03.430   695   776 I libPowerHal: [PD] scn:9 hdl:60227 hint:22 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.430  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.430   695   776 I libPowerHal: [perfLockAcq] idx:11 hdl:60231 hint:30 pid:695 duration:1500 => ret_hdl:60231
+02-05 23:32:03.430   695   776 I libPowerHal: [PE] scn:11 hdl:60231 hint:30 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.431   695   776 I libPowerHal: [perfLockRel] hdl:60229, idx:8
+02-05 23:32:03.431   695   776 I libPowerHal: [PD] scn:8 hdl:60229 hint:23 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.431  1237  1390 D View    : [Warning] assignParent to null: this = DecorView@9d37271[lunchtray]
+02-05 23:32:03.431   695   776 I libPowerHal: [perfLockAcq] idx:9 hdl:60232 hint:30 pid:695 duration:500 => ret_hdl:60232
+02-05 23:32:03.431   695   776 I libPowerHal: [PE] scn:9 hdl:60232 hint:30 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.431   717   782 I BufferQueueProducer: [Splash Screen com.example.lunchtray#0](id:2cd000007e6,api:2,p:1237,c:717) disconnect(): api=2
+02-05 23:32:03.432  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.432  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.434  1237  1390 I InputTransport: Destroy ARC handle: 0xb400006fc2f10c10
+02-05 23:32:03.436  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.440   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 249. leave_time:4418
+02-05 23:32:03.440   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:450
+02-05 23:32:03.440  1237  3612 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{5b10bf5 u0 Splash Screen com.example.lunchtray} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.451   966  1033 D AAL     : 02-05 11:32:03.418 BL= 543,ESS= 256, 02-05 11:32:03.426 BL= 541,ESS= 256, 02-05 11:32:03.434 BL= 540,ESS= 256, 02-05 11:32:03.443 BL= 539,ESS= 256, 02-05 11:32:03.451 BL= 538,ESS= 256,
+02-05 23:32:03.457  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.457  1237  3168 I InputDispatcher: Window went away: Window{5b10bf5 u0 Splash Screen com.example.lunchtray}
+02-05 23:32:03.468   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039731,0.000045, totalTime 0.039777 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.474  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.490  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.493   966  1033 D AAL     : 02-05 11:32:03.459 BL= 536,ESS= 256, 02-05 11:32:03.468 BL= 535,ESS= 256, 02-05 11:32:03.476 BL= 534,ESS= 256, 02-05 11:32:03.484 BL= 533,ESS= 256, 02-05 11:32:03.493 BL= 532,ESS= 256,
+02-05 23:32:03.507  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.508   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039715,0.000035, totalTime 0.039751 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.521   695   776 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:60203
+02-05 23:32:03.521   695   776 I libPowerHal: [perfLockRel] hdl:60203, idx:3
+02-05 23:32:03.521   695   776 I libPowerHal: [PD] scn:3 hdl:60203 hint:0 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.524  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.527   695   776 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:60213
+02-05 23:32:03.527   695   776 I libPowerHal: [perfLockRel] hdl:60213, idx:1
+02-05 23:32:03.527   695   776 I libPowerHal: [PD] scn:1 hdl:60213 hint:0 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.534   966  1033 D AAL     : 02-05 11:32:03.501 BL= 530,ESS= 256, 02-05 11:32:03.509 BL= 529,ESS= 256, 02-05 11:32:03.518 BL= 528,ESS= 256, 02-05 11:32:03.526 BL= 527,ESS= 256, 02-05 11:32:03.534 BL= 525,ESS= 256,
+02-05 23:32:03.540  1237  3612 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.542  2533  2533 I InputTransport: Create ARC handle: 0xb400006fc27572b0
+02-05 23:32:03.546  2533  2533 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3301
+02-05 23:32:03.546  2533  2533 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1979
+02-05 23:32:03.547  2533  2533 I DeviceUnlockedTag: DeviceUnlockedTag.notifyDeviceLockStatusChanged():79 Notify device unlocked.
+02-05 23:32:03.548   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039730,0.000037, totalTime 0.039768 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.557  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.566  2533  2533 V PhoneWindow: DecorView setVisiblity: visibility = 8, Parent = android.view.ViewRootImpl@917433, this = DecorView@ba9dd9a[InputMethod]
+02-05 23:32:03.574  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.588   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039745,0.000041, totalTime 0.039787 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.590  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Splash Screen com.example.lunchtray#0 Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.590  1237  6630 I FZ2.LISTEN: ignore this pop window change of not system window
+02-05 23:32:03.591  1620  1620 D NavigationBar: onSystemBarAppearanceChanged: appearance = 16
+02-05 23:32:03.592   966  1033 D AAL     : 02-05 11:32:03.543 BL= 524,ESS= 256, 02-05 11:32:03.551 BL= 523,ESS= 256, 02-05 11:32:03.576 BL= 525,ESS= 256, 02-05 11:32:03.584 BL= 526,ESS= 256, 02-05 11:32:03.592 BL= 527,ESS= 256,
+02-05 23:32:03.594   456   456 E SELinux : avc:  denied  { find } for pid=3582 uid=1000 name=tethering scontext=u:r:silead_manager_app:s0 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+02-05 23:32:03.606  1989  1989 I OtherSimPSListener: mOthersign:4subid :1
+02-05 23:32:03.607  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.608   717   717 I BufferQueueConsumer: [Splash Screen com.example.lunchtray#0](id:2cd000007e6,api:0,p:-1,c:717) disconnect()
+02-05 23:32:03.609   717   717 I BufferQueue: [Splash Screen com.example.lunchtray#0](this:0xb40000728c929ec8,id:2022,api:2,p:-1,c:-1) onDestructor()
+02-05 23:32:03.610  1237  3168 I InputDispatcher: Window went away: Splash Screen com.example.lunchtray#0
+02-05 23:32:03.611  1620  1837 D MobileSignalController: roaming = false , isCdma = false::mCurrentState.iconGroup-= IconGroup(NotDefaultData)
+02-05 23:32:03.611  1620  1837 I NetworkController.MobileSignalController(1): isImsOverWfc = false , mDisableWfc = false , mHideWfcInCsCall = false , isImsOverVoice = false , isLteNetWork = true,mCurrentState.imsRegState=1
+02-05 23:32:03.611  1620  1620 D StatusBarSignalPolicy: state.show = falsestate.mMobileVolteId = 0 subId = 1
+02-05 23:32:03.624  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.628   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039716,0.000037, totalTime 0.039754 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.634 17929 17952 D EventInjectionStrategy: Creating injection strategy with input manager.
+02-05 23:32:03.634   966  1033 D AAL     : 02-05 11:32:03.601 BL= 528,ESS= 256, 02-05 11:32:03.609 BL= 529,ESS= 256, 02-05 11:32:03.618 BL= 531,ESS= 256, 02-05 11:32:03.626 BL= 546,ESS= 256, 02-05 11:32:03.634 BL= 547,ESS= 256,
+02-05 23:32:03.634 17929 17952 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->getInstance()Landroid/hardware/input/InputManager; (greylist, reflection, allowed)
+02-05 23:32:03.634 17929 17952 W ample.lunchtra: Accessing hidden method Landroid/hardware/input/InputManager;->injectInputEvent(Landroid/view/InputEvent;I)Z (greylist, reflection, allowed)
+02-05 23:32:03.634 17929 17952 W ample.lunchtra: Accessing hidden field Landroid/hardware/input/InputManager;->INJECT_INPUT_EVENT_MODE_WAIT_FOR_FINISH:I (greylist, reflection, allowed)
+02-05 23:32:03.640  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.645 17929 17952 W ample.lunchtra: Accessing hidden method Landroid/view/ViewConfiguration;->getDoubleTapMinTime()I (greylist, reflection, allowed)
+02-05 23:32:03.649 17929 17929 W ample.lunchtra: Accessing hidden method Landroid/os/MessageQueue;->next()Landroid/os/Message; (greylist, reflection, allowed)
+02-05 23:32:03.649 17929 17929 W ample.lunchtra: Accessing hidden field Landroid/os/MessageQueue;->mMessages:Landroid/os/Message; (greylist, reflection, allowed)
+02-05 23:32:03.649 17929 17929 W ample.lunchtra: Accessing hidden method Landroid/os/Message;->recycleUnchecked()V (greylist, reflection, allowed)
+02-05 23:32:03.651 17929 17929 W ample.lunchtra: Accessing hidden method Landroid/view/WindowManagerGlobal;->getInstance()Landroid/view/WindowManagerGlobal; (greylist, reflection, allowed)
+02-05 23:32:03.651 17929 17929 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mViews:Ljava/util/ArrayList; (greylist, reflection, allowed)
+02-05 23:32:03.651 17929 17929 W ample.lunchtra: Accessing hidden field Landroid/view/WindowManagerGlobal;->mParams:Ljava/util/ArrayList; (greylist, reflection, allowed)
+02-05 23:32:03.655 17929 17929 I ViewInteraction: Performing 'single click' action on view view.getId() is <2131230842/com.example.lunchtray:id/cancel_button>
+02-05 23:32:03.657  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.658  2000  2000 D OrientationTouchTransformer: touchInValidSwipeRegions return false, x = 539.5 y = 970.5
+02-05 23:32:03.658   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 467. leave_time:4200
+02-05 23:32:03.658   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:80
+02-05 23:32:03.658   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escap_time 467. leave_time:4200
+02-05 23:32:03.658   695   730 I mtkpower@impl: [setBoost] Boost::INTERACTION,escape. durationMs:80
+02-05 23:32:03.659   695   776 I libPowerHal: [perfLockAcq] idx:1 hdl:60233 hint:25 pid:695 duration:500 => ret_hdl:60233
+02-05 23:32:03.659   695   776 I libPowerHal: [PE] scn:1 hdl:60233 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.659   695   776 I libPowerHal: [perfLockRel] hdl:60224, idx:2
+02-05 23:32:03.659   695   776 I libPowerHal: [PD] scn:2 hdl:60224 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.668   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039741,0.000039, totalTime 0.039780 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.673  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.690  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.692   966  1033 D AAL     : 02-05 11:32:03.642 BL= 548,ESS= 256, 02-05 11:32:03.659 BL= 549,ESS= 256, 02-05 11:32:03.667 BL= 550,ESS= 256, 02-05 11:32:03.676 BL= 551,ESS= 256, 02-05 11:32:03.692 BL= 552,ESS= 256,
+02-05 23:32:03.694   695   776 I mtkpower@impl: [powerd_req] TIMER_MSG_PERF_LOCK_TIMEOUT hdl:60211
+02-05 23:32:03.694   695   776 I libPowerHal: [perfLockRel] hdl:60211, idx:0
+02-05 23:32:03.694   695   776 I libPowerHal: [PD] scn:0 hdl:60211 lock_user:pnpmgr pid:2708 tid:2716 dur:500
+02-05 23:32:03.699   695   776 I libPowerHal: [perfLockAcq] idx:0 hdl:60234 hint:25 pid:695 duration:500 => ret_hdl:60234
+02-05 23:32:03.699   695   776 I libPowerHal: [PE] scn:0 hdl:60234 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.699   695   776 I libPowerHal: [perfLockRel] hdl:60233, idx:1
+02-05 23:32:03.699   695   776 I libPowerHal: [PD] scn:1 hdl:60233 hint:25 comm:mtkpower@1.0-se pid:695
+02-05 23:32:03.707  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.708   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039741,0.000036, totalTime 0.039777 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.724  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.738   457   457 I hwservicemanager: getTransport: Cannot find entry vendor.mediatek.hardware.mtkradioex@2.0::IMtkRadioEx/mtkSmartRatSwitch1 in either framework or device manifest.
+02-05 23:32:03.738   457   457 I hwservicemanager: getTransport: Cannot find entry vendor.mediatek.hardware.mtkradioex@2.0::IMtkRadioEx/mtkSmartRatSwitch2 in either framework or device manifest.
+02-05 23:32:03.739   457   457 I hwservicemanager: getTransport: Cannot find entry vendor.mediatek.hardware.mtkradioex@2.0::IMtkRadioEx/mtkSmartRatSwitch3 in either framework or device manifest.
+02-05 23:32:03.740  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.748   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039746,0.000040, totalTime 0.039787 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.751   966  1033 D AAL     : 02-05 11:32:03.701 BL= 553,ESS= 256, 02-05 11:32:03.717 BL= 554,ESS= 256, 02-05 11:32:03.726 BL= 555,ESS= 256, 02-05 11:32:03.734 BL= 556,ESS= 256, 02-05 11:32:03.751 BL= 557,ESS= 256,
+02-05 23:32:03.757  1237  3168 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.758 17929 17929 D LifecycleMonitor: Lifecycle status change: androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907 in: STOPPED
+02-05 23:32:03.759 17929 17929 V ActivityScenario: Activity lifecycle changed event received but ignored because the intent does not match. startActivityIntent=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] cmp=com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity (has extras) }, activity.getIntent()=Intent { act=android.intent.action.MAIN cat=[android.intent.category.LAUNCHER] flg=0x10008000 cmp=com.example.lunchtray/androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity (has extras) }, activity=androidx.test.core.app.InstrumentationActivityInvoker$BootstrapActivity@5170907
+02-05 23:32:03.760  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.761  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.761  5372  5391 D Game_Utils: getTopPackageNameNew pkm = com.example.lunchtray
+02-05 23:32:03.763  5372  5391 D Game_Utils: mode = 1
+02-05 23:32:03.764  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.764  5372  5391 D Game_Utils: getTopClassNameNew className = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.765  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.765  5372  5391 I SmartPanel_SmartPanelService: ASP topPkg: com.example.lunchtray  topClass = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity isSplitScreenfalse
+02-05 23:32:03.765  5372  5391 I SmartPanel_SmartPanelService: ASP pkgName: com.example.lunchtray  screenState=false
+02-05 23:32:03.766  5372  5391 D Game_Utils: isQSplitscreenMode mode = 1
+02-05 23:32:03.768  5372  5391 D Game_Utils: mode = 1 clsname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.768  5372  5391 D Game_Utils: isTheMainScreen, displayId: 0  classname = androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity
+02-05 23:32:03.768  5372  5391 D SmartPanelService: handlerVideoStart isResume = true  VIDEO_PACKAGE =   pkgName = com.example.lunchtray
+02-05 23:32:03.773  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.788   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039728,0.000039, totalTime 0.039768 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.789  2602 30222 I FontLog : Received query Noto Color Emoji Compat, URI content://com.google.android.gms.fonts [CONTEXT service_id=132 ]
+02-05 23:32:03.789  2602 30222 I FontLog : Query [emojicompat-emoji-font] resolved to {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} [CONTEXT service_id=132 ]
+02-05 23:32:03.790  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.791  2602 30222 I FontLog : Fetch {Noto Color Emoji Compat, wdth 100.0, wght 400, ital 0.0, bestEffort false} end status Status{statusCode=SUCCESS, resolution=null} [CONTEXT service_id=132 ]
+02-05 23:32:03.795   456   456 E SELinux : avc:  denied  { find } for pid=3582 uid=1000 name=tethering scontext=u:r:silead_manager_app:s0 tcontext=u:object_r:tethering_service:s0 tclass=service_manager permissive=0
+02-05 23:32:03.796  2602 30222 I FontLog : Pulling font file for id = 131, cache size = 7 [CONTEXT service_id=132 ]
+02-05 23:32:03.799  2602 30222 I FontLog : Pulling font file for id = 131, cache size = 7 [CONTEXT service_id=132 ]
+02-05 23:32:03.807  1237  1477 I InputDispatcher: setInputWindows displayId=0 Window{cd6c485 u0 ScreenDecorOverlayBottom} Window{58a9a76 u0 ScreenDecorOverlay} Window{85ba95f u0 NavigationBar0} Window{aefd95e u0 StatusBar} Window{35d1d8d u0 com.example.lunchtray/androidx.fragment.app.testing.FragmentScenario$EmptyFragmentActivity} Window{accad1c u0 com.android.systemui.ImageWallpaper}
+02-05 23:32:03.809   966  1033 D AAL     : 02-05 11:32:03.759 BL= 558,ESS= 256, 02-05 11:32:03.775 BL= 559,ESS= 256, 02-05 11:32:03.784 BL= 560,ESS= 256, 02-05 11:32:03.800 BL= 561,ESS= 256, 02-05 11:32:03.809 BL= 562,ESS= 256,
+02-05 23:32:03.828   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039751,0.000042, totalTime 0.039794 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.867   966  1033 D AAL     : 02-05 11:32:03.817 BL= 563,ESS= 256, 02-05 11:32:03.834 BL= 564,ESS= 256, 02-05 11:32:03.842 BL= 565,ESS= 256, 02-05 11:32:03.859 BL= 566,ESS= 256, 02-05 11:32:03.867 BL= 567,ESS= 256,
+02-05 23:32:03.868   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000001,0.039745,0.000038, totalTime 0.039784 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.908   671  7638 W AudioALSACaptureDataProviderNormal: readThread, latency_in_s,0.000000,0.039738,0.000036, totalTime 0.039774 > logTimeout 0.022000 TIMEOUT!!
+02-05 23:32:03.925   966  1033 D AAL     : 02-05 11:32:03.875 BL= 568,ESS= 256, 02-05 11:32:03.892 BL= 569,ESS= 256, 02-05 11:32:03.900 BL= 570,ESS= 256, 02-05 11:32:03.917 BL= 571,ESS= 256, 02-05 11:32:03.925 BL= 572,ESS= 256,
+02-05 23:32:03.926 17929 17952 I TestRunner: finished: navigate_to_start_order_from_checkout(com.example.lunchtray.NavigationTests)
